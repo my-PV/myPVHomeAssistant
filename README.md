@@ -81,6 +81,7 @@ Preview:<br>
 ### 1-TODO:
 - clean up and testing code
 - PR to the Home Assistant Core
+- Enable autodiscovery mDNS
 
 ### 2-IN PROGRESS:
 - Release to HACS
