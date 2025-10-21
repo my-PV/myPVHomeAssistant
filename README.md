@@ -10,7 +10,7 @@ This repo is forked from <a href="https://github.com/EldarKarahasanovic/myPVHome
 
 ### Installation
 
-There are 2 ways how to install thw my-PV Home Assistant integration
+There are 2 ways how to install the my-PV Home Assistant integration
 
 #### Manual installation
 Copy this folder to `config/custom_components/mypv/`.
