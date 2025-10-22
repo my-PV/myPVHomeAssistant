@@ -2,8 +2,6 @@
 
 Home Assistant integration for my-PV
 
-<a href="https://buymeacoffee.com/melik787" target="_blank"><img height="41px" width="167px" src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee"></a>
-
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
 
 This repo is forked from <a href="https://github.com/EldarKarahasanovic/myPVHomeAssistant" target="_blank">@EldarKarahasanovic</a> and <a href="https://github.com/zaubererty/homeassistant-mvpv" target="_blank">@zaubererty</a>. We still improved this integration by adding more services, improved code and discovery. 
